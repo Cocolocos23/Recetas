@@ -44,7 +44,7 @@ baseurl: "/Recetas"
 # !! You don't need to change any of the configuration flags below !!
 #
 
-permalink: /:Recetas/
+permalink: /:title/
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
