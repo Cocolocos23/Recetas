@@ -9,7 +9,7 @@ Receta de albóndigas caseras
 
 bla bla bla
 
-![Albondigas]({{ site.baseurl }}/Descargas/albondigas.jpg)
+![Albondigas]({{ site.baseurl }}/images/albondigas.jpg)
 
 ## Sección 2
 
