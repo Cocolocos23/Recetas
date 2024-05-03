@@ -9,17 +9,17 @@ Receta de croquetas de pollo caseras
 
 ## Ingredientes (para 10 personas)
 
- 1 pechuga de pollo cocida y troceada
- 1 pellizco de nuez moscada molida
- 150 gramos de mantequilla
- 2 huevos
- 1 trozo de cebolla
- 2 vasos de leche (puede ser semidesnatada)
- 1 tarro de pan rallado
- 1 pellizco de sal
- 3 cucharadas soperas de harina de trigo
- 2 vasos de aceite de girasol para freír
- 1 pellizco de pimienta negra molida
+- 1 pechuga de pollo cocida y troceada
+- 1 pellizco de nuez moscada molida
+- 150 gramos de mantequilla
+-  2 huevos
+- 1 trozo de cebolla
+- 2 vasos de leche (puede ser semidesnatada)
+- 1 tarro de pan rallado
+- 1 pellizco de sal
+- 3 cucharadas soperas de harina de trigo
+- 2 vasos de aceite de girasol para freír
+- 1 pellizco de pimienta negra molida
 
 ## Preparación
 
