@@ -1,6 +1,6 @@
 ---
-layout: post2
-title: ¡Albóndigas!
+layout: post
+title: Albóndigas
 ---
 
 Receta de albóndigas caseras
@@ -31,7 +31,7 @@ Para la salsa:
 - Laurel
 - Sal
 
-## Preparación
+### Preparación
 
 Paso 1 - 
 Pica la cebolla y el diente de ajo.
