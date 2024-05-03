@@ -1,6 +1,6 @@
 ---
 layout: post2
-title: Albóndigas!
+title: ¡Albóndigas!
 ---
 
 Receta de albóndigas caseras
