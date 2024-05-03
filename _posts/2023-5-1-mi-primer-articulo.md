@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Croquetas!
+title: Croquetas
 ---
 
 Receta de croquetas de pollo caseras
